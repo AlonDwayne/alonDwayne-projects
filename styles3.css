@@ -1,0 +1,32 @@
+.contact-info{
+    color: royalblue;
+
+}
+.Address-info{
+    color: rgb(190, 220, 20);
+}
+/*common nav-wrapper*/
+.nav-wrapper{
+    height: 200px;
+    background-image:LIFE FOOD11.png  ;
+    
+    /* flexbox*/
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 50px 25px ;
+    border-color: red;
+    border: 5ch 2ch;
+
+}
+.left-column{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    margin-right: 15pxs;
+}
+.left-column > .hours{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}

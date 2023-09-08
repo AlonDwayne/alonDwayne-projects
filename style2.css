@@ -1,0 +1,20 @@
+/* external style  */
+h1{
+    align-items: center;
+    color: darkgreen;
+    text-decoration: underline;
+    text-decoration:underline black;
+    font-style: bold;
+}
+p{
+    background-color: beige;
+    color:mediumseagreen;
+}
+title{
+    color: aqua;
+}
+a{
+    color: red;
+    align-items: center;
+    text-align: center;
+}
